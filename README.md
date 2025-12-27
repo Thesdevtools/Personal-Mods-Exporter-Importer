@@ -9,7 +9,7 @@ Note: The files in the Overwrite folder are NOT migrated automatically. Please h
 
 >注意: Overwrite フォルダ内のファイルは自動移行の対象外です。手動で管理してください。 また、本ツールは自己責任でご使用ください。
 
-Download & Installation (ダウンロードとインストール)
+## Download & Installation (ダウンロードとインストール)
 Please check the "Releases" on the right side of this page to download the latest zip file.
 
 >このページの右側にある「Releases」から、最新のzipファイルをダウンロードしてください。
@@ -18,7 +18,7 @@ Extract the contents of the zip file (PersonalModsExporter and PersonalModsImpor
 
 >Zipファイルの中身（PersonalModsExporter と PersonalModsImporter フォルダ）を、MO2の plugins フォルダ に配置してください。 配置後、MO2を再起動すると有効になります。
 
-Usage (使い方)
+## Usage (使い方)
 Run Exporter to create the separator [PERSONAL - MODS].
 Move the separator above the mods you want to export.
 Run Exporter again to save the data.
@@ -29,14 +29,14 @@ Run Importer on the destination MO2 instance and select the exported folder.
 >再度Exporterを実行してデータを書き出します。
 >移行先のMO2でImporterを実行し、書き出したフォルダを選択します。
 
-Details (詳細情報)
+## Details (詳細情報)
 For more details, please visit my Note article:
 
 >より詳しい情報は、私のNote記事をご覧ください:
 
-(ここに公開するNote記事のURLを貼ってください)
+https://note.com/thesdevtools/n/n04d39e00a418
 
-Credits (クレジット)
+## Credits (クレジット)
 Special thanks to the Mod Organizer 2 development team and the community.
 
 >Mod Organizer 2 開発チームとコミュニティに感謝いたします。
