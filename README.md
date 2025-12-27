@@ -20,19 +20,13 @@ Extract the contents of the zip file (PersonalModsExporter and PersonalModsImpor
 
 Usage (使い方)
 Run Exporter to create the separator [PERSONAL - MODS].
-
 Move the separator above the mods you want to export.
-
 Run Exporter again to save the data.
-
 Run Importer on the destination MO2 instance and select the exported folder.
 
 >Exporterを実行して [PERSONAL - MODS] セパレータを作成します。
-
 >エクスポートしたいMOD群の**一番上（開始位置）**にセパレータを移動させます。
-
 >再度Exporterを実行してデータを書き出します。
-
 >移行先のMO2でImporterを実行し、書き出したフォルダを選択します。
 
 Details (詳細情報)
