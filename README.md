@@ -1,4 +1,4 @@
-# Personal-Mods-Exporter-Importer (MO2 Plugin)
+# Personal Mods Exporter Importer (MO2 Plugin)
 
 Personal Mods Exporter / Importer
 This plugin for Mod Organizer 2 (MO2) allows you to export a specific set of mods along with their load order and import them into another MO2 instance. It simplifies the process of migrating your personal "essential mods" to a new environment.
